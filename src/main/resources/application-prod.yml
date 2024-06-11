@@ -15,7 +15,7 @@
 
 # 서버포트 8080 안떴을 때 번호 설정
 server:
-  port: 8080
+  port: 80
 
 spring:
   application:
